@@ -1,1 +1,1 @@
-# Text-Detection-with-OCR-using-Tesseract-KTP-NPWP
+# Text Detection with OCR using Tesseract | KTP-NPWP
